@@ -1,0 +1,6 @@
+{
+  "name": "MedTrack Live Showcase",
+  "description": "A polished, responsive dashboard design and booking system interface showcase for the MedTrack smart healthcare bed management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
